@@ -47,7 +47,7 @@
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     ```
 
-### 2. 一键安装 (Homebrew)
+### 2. 安装 WeChatTweak (通过 Homebrew)
 
 打开终端 (Terminal)，直接运行：
 
