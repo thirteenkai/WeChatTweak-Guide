@@ -43,6 +43,10 @@
 * **环境依赖**：只需安装 **Homebrew** (它会自动帮你处理 Xcode CLI 等开发工具)。
     *(如果你连 Homebrew 也没装，请复制下面的官网命令)*
 
+    ```bash
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
+
 ### 2. 一键安装 (Homebrew)
 
 打开终端 (Terminal)，直接运行：
